@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6fc16b4-023a-43f0-b62b-e7d2064db3ea" name="Default" comment="" />
+    <list default="true" id="e6fc16b4-023a-43f0-b62b-e7d2064db3ea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,14 +21,69 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="143">
+              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="40" />
+              <folding>
+                <marker date="1571505769857" expanded="true" signature="25255:25297" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25255:25315" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25255:25328" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25255:25343" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25378:27916" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25391:27901" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25445:25740" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25464:25725" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25527:25705" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25567:25671" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25588:25649" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25790:26117" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25809:26102" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25904:26082" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25944:26048" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="25965:26026" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26168:26433" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26187:26418" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26220:26398" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26260:26364" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26281:26342" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26476:26782" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26495:26767" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26569:26747" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26609:26713" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26630:26691" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26833:27188" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26852:27173" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26936:27153" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26976:27119" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="26997:27097" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27223:27488" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27242:27473" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27275:27453" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27315:27419" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27336:27397" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27540:27887" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27559:27872" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27674:27852" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27714:27818" ph="..." />
+                <marker date="1571505769857" expanded="true" signature="27735:27796" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -34,6 +93,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -58,6 +118,7 @@
     <option name="width" value="1618" />
     <option name="height" value="870" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -93,6 +154,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="nameofproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nameofproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nameofproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,7 +434,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.50259405" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.49740598" order="7" side_tool="false" content_ui="tabs" />
@@ -408,10 +483,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="40" />
+          <folding>
+            <marker date="1571505769857" expanded="true" signature="25255:25297" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25255:25315" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25255:25328" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25255:25343" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25378:27916" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25391:27901" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25445:25740" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25464:25725" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25527:25705" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25567:25671" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25588:25649" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25790:26117" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25809:26102" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25904:26082" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25944:26048" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="25965:26026" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26168:26433" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26187:26418" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26220:26398" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26260:26364" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26281:26342" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26476:26782" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26495:26767" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26569:26747" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26609:26713" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26630:26691" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26833:27188" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26852:27173" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26936:27153" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26976:27119" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="26997:27097" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27223:27488" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27242:27473" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27275:27453" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27315:27419" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27336:27397" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27540:27887" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27559:27872" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27674:27852" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27714:27818" ph="..." />
+            <marker date="1571505769857" expanded="true" signature="27735:27796" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="143">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
         </state>
       </provider>

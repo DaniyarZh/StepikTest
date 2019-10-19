@@ -6,7 +6,7 @@
 
     <groupId>project.adress</groupId>
     <artifactId>name.of.project</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>31.0-SNAPSHOT</version>
 
     <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-server -->
     <dependencies>
